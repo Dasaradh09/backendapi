@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e3cc256a-b0a8-499e-a317-440f0db28695/resourceGroups/bookmarketplace_group/providers/Microsoft.Web/sites/bookmarketplace",
+    "appService.deploySubpath": "."
+}
